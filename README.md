@@ -3,3 +3,4 @@
 - Study area: Da Lat
 - Timeline: 2014 to Nov-2020
 - Data: Landsat 8
+- Criteria: Cloud cover less than 12%
