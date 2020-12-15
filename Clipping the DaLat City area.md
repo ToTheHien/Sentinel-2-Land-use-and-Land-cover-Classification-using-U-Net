@@ -27,6 +27,6 @@
 
 ![Clipping](https://github.com/ToTheHien/Landsat-8-Image-Classification-using-CNN/blob/main/images/Clipping.PNG)
 
-*Note:* ENVI cannot extract TIF file of layer stacking. I decide to clip individually Band 2, 3, 4 first then choose the extracted format for stacked image later.  
+ 
 
 
