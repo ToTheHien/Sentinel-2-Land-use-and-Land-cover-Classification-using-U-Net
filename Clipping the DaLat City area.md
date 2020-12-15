@@ -15,17 +15,17 @@
 
 - Layer Stacking Band 432 into RGB image.
 
-![RGB](https://github.com/ToTheHien/Landsat-8-Image-Classification-using-CNN/blob/main/images/Qgis.PNG)
+![RGB](https://github.com/ToTheHien/Landsat-8-Image-Classification-using-CNN/blob/main/images/RGB-432.PNG)
 
 - Load DaLat shapefile
 
-![Shapefile1](https://github.com/ToTheHien/Landsat-8-Image-Classification-using-CNN/blob/main/images/Shapefile.PNG)
+![Shapefile1](https://github.com/ToTheHien/Landsat-8-Image-Classification-using-CNN/blob/main/images/Shapefile1.PNG)
 
 ![Shapefile](https://github.com/ToTheHien/Landsat-8-Image-Classification-using-CNN/blob/main/images/Shapefile.PNG)
 
 - Clipping DaLat area
 
-![Clipping](https://github.com/ToTheHien/Landsat-8-Image-Classification-using-CNN/blob/main/images/Qgis.PNG)
+![Clipping](https://github.com/ToTheHien/Landsat-8-Image-Classification-using-CNN/blob/main/images/Clipping.PNG)
 
 *Note:* ENVI cannot extract TIF file of layer stacking. I decide to clip individually Band 2, 3, 4 first then the extracted format for stacked image later.  
 
