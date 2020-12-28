@@ -9,11 +9,11 @@
 - Save the selection as an esri shapefile.
 
 ## 2. ENVI
-- Load Band 2, 3, 4 images.
+- Load Band 1-7 images.
 
 ![Band-2](https://github.com/ToTheHien/Landsat-8-Image-Classification-using-CNN/blob/main/images/Band-2.PNG)
 
-- Layer Stacking Band 432 into RGB image.
+- Layer Stacking Band 1-7 into merged image.
 
 ![RGB](https://github.com/ToTheHien/Landsat-8-Image-Classification-using-CNN/blob/main/images/RGB-432.PNG)
 
