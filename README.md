@@ -1,6 +1,6 @@
-# Landsat-8-Image-Classification-using-CNN
+# Image-Classification-using-CNN
 
 - Study area: Da Lat
-- Timeline: 2014 to Nov-2020
-- Data: Landsat 8
-- Criteria: Cloud cover less than 12%
+- Timeline: July-2015 to Nov-2020
+- Data: Sentinel 2 / Landsat 8
+- Criteria: Cloud cover less than 15%
