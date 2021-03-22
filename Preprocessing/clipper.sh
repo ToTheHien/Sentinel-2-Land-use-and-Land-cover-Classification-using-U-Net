@@ -12,4 +12,4 @@ for kep in *_stacked.tif;do # You can change the file extension with any valid f
 echo ""
 echo "<----------------------------------------"
 echo "Start Moving files"
-mv *cropped_stacked_cropped* /media/thehien/Endo/Sentinel-2A/Clipper/
+mv *_stacked_cropped* /media/thehien/Endo/Sentinel-2A/Clipper/
