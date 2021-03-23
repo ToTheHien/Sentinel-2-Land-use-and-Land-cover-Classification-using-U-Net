@@ -4,14 +4,14 @@
 #usage: ./merge.sh
 ##############################################
 
-output=`ls *.jp2| head -n 1 | awk -F "_B" '{print $1}'`
+output=`ls *.tif| head -n 1 | awk -F "_B" '{print $1}'`
 output+='_stacked.tif'
 echo $output
 echo ""
 echo "<----------------------------------------"
 sds_names=""
 
-for kep in *.tif;do # You can change the file extension with any valid file extension
+for kep in *.jp2;do # You can change the file extension with any valid file extension
     echo "$(basename "$kep")"
     sds=$(echo "$(basename "$kep")")
     sds_names="$sds_names $sds"
