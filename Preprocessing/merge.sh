@@ -4,7 +4,7 @@
 #usage: ./merge.sh
 ##############################################
 
-output=`ls *.tif| head -n 1 | awk -F "_B" '{print $1}'`
+output=`ls *.jp2| head -n 1 | awk -F "_B" '{print $1}'`
 output+='_stacked.tif'
 echo $output
 echo ""
