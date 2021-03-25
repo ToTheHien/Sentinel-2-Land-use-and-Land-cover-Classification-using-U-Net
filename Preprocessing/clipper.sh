@@ -7,7 +7,7 @@ echo "<----------------------------------------"
 echo "Start Clipper"
 for kep in *_stacked.tif;do # You can change the file extension with any valid file extension
     echo "$(basename "$kep")"
-    gdalwarp -q -cutline /media/thehien/Endo/Sentinel-2A/DaLat.shp -crop_to_cutline -tr 10.0 10.0 -of GTiff  $kep ${kep/.tif}_cropped.tif;done
+    gdalwarp -q -cutline /media/thehien/Endo/DaLat/DaLat.shp -crop_to_cutline -tr 10.0 10.0 -of GTiff  $kep ${kep/.tif}_cropped.tif;done
 
 echo ""
 echo "<----------------------------------------"
