@@ -1,5 +1,4 @@
 #!/bin/bash
-#first u need to make this script executable with this command #chmod +x merge.sh
 #This script performs a layer stack of all .tif images inside the folder
 #usage: ./merge.sh
 ##############################################
