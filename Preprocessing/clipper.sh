@@ -1,5 +1,4 @@
 #!/bin/bash
-#first u need to make this script executable with this command #chmod +x clipper.sh
 #This script crops every image inside the folder with a specific based on a vector file, by using GDAL, and moves the cropped images to a specific folder location
 #usage: ./clipper.sh
 echo ""
