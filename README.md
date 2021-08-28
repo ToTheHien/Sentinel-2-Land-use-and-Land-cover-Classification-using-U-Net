@@ -4,6 +4,8 @@ Land use and land cover (LULC) classification have been generated for a wide ran
 
 # Methodology
 
+![Diagram_methodology](https://github.com/ToTheHien/Sentinel-2-Land-use-and-Land-cover-Classification-using-U-Net/blob/main/images/Diagram_methodology.PNG)
+
 
 
 
