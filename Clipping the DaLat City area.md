@@ -8,24 +8,7 @@
 
 - Save the selection as an esri shapefile.
 
-## 2. ENVI
-- Load Band 1-7 images.
 
-![Band-2](https://github.com/ToTheHien/Landsat-8-Image-Classification-using-CNN/blob/main/images/Band-2.PNG)
-
-- Layer Stacking Band 1-7 into merged image.
-
-![RGB](https://github.com/ToTheHien/Landsat-8-Image-Classification-using-CNN/blob/main/images/RGB-432.PNG)
-
-- Load DaLat shapefile
-
-![Shapefile1](https://github.com/ToTheHien/Landsat-8-Image-Classification-using-CNN/blob/main/images/Shapefile1.PNG)
-
-![Shapefile](https://github.com/ToTheHien/Landsat-8-Image-Classification-using-CNN/blob/main/images/Shapefile.PNG)
-
-- Clipping DaLat area
-
-![Clipping](https://github.com/ToTheHien/Landsat-8-Image-Classification-using-CNN/blob/main/images/Clipping.PNG)
 
  
 
